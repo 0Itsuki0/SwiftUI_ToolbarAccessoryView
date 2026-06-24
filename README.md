@@ -38,6 +38,6 @@ VStack(spacing: 0) {
 .toolbarBackground(.hidden, for: .windowToolbar)
 ```
 
-
+However, do NOTE that this approach will behave differently when used with Split navigation view or inspector.
 
 
