@@ -16,7 +16,7 @@ Text("Some Main Content")
     }
 ```
 
-For more details, please refer to my blog [SwiftUI/MacOS: Add An Toolbar Accessory View]()
+For more details, please refer to my blog [SwiftUI/MacOS: Add An Toolbar Accessory View](https://medium.com/@itsuki.enjoy/swiftui-macos-add-an-toolbar-accessory-view-311eb1049c73)
 
 ![](./demo.png)
 
